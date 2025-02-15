@@ -18,3 +18,5 @@ Este projeto é desenvolvido em Python e utiliza a biblioteca **YOLOv5** para de
 2. **Detecção de Inimigos**: Usando o YOLOv5, o sistema identifica inimigos na imagem capturada.
 3. **Acompanhamento do Alvo**: Quando um inimigo é detectado, o mouse é movido automaticamente para seguir o alvo.
 4. **Precisão e Velocidade**: O sistema é otimizado para garantir precisão e velocidade na detecção e no acompanhamento.
+
+OBS: Este projeto é apenas um experimento para fins educacionais e de estudo. Não me responsabilizo por quaisquer banimentos ou consequências decorrentes do uso deste software em jogos ou outras plataformas. Utilize por sua própria conta e risco.
